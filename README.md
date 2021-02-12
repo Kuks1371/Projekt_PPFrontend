@@ -1,1 +1,1 @@
-https://github.com/Yevhen-Yanushevych/Projekt-PPfront
+https://github.com/Kuks1371/Projekt_PPFrontend
